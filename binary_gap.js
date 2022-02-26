@@ -9,6 +9,8 @@
             N is 32, return 0
             N is 9,  return 2
 
+    Take a look at the problem description here
+    https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
 */
 
 const longestBinaryGap = (N) => {
