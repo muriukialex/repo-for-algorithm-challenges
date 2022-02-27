@@ -32,6 +32,5 @@ const longestBinaryGap = (N) => {
   return parseInt(finalMax)
 }
 
-// console.log(toBinary(9)) //=> 1001 ==> biggest binaryGap is 2
-// console.log(toBinary(32)) //=> 100000
+//logs 2
 console.log(longestBinaryGap(9))
