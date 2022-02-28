@@ -2,7 +2,7 @@
 
 This is a repository set aside for solutions to various algorithm challenges
 
-Sites algorithm challenges are collected from include
+algorithm challenges are collected from the following site(s)
 
  - Codility
 
