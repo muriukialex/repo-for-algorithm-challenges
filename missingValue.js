@@ -19,6 +19,9 @@
     A[3] = 5
     the function should return 4, as it is the missing element.
 
+    Link to this challenge can be seen here
+    https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/
+
 */
 
 const missingElem = (A) => {
