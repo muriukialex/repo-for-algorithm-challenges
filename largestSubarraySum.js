@@ -26,6 +26,6 @@ const largestSubarraySum = (ourArray, size) => {
 	return solutionArray
 }
 
-let result = largestSubarraySum([3, 1, 4, 1, 5, 9, 2, 6], 4) //return [9,2,6]
+let result = largestSubarraySum([3, 1, 4, 1, 5, 9, 2, 6], 3) //return [9,2,6]
 // let result = largestSubarraySum([1, 2, 3, 4, 5]) //return [3,4,5]
 console.log(result)
